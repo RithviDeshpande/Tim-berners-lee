@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    background-image:linear-gradient(#60ebeb 0%, #27ae60 100%);
+        padding-top: 100px;
+}
+img{
+    border-radius: 50px;
+    
+    
+    
+    border:4px solid darkblue;
+}
+#welcomesection{
+    height:800px;
+    display: table;
+    width: 100%;
+    height: 100%;
+    color: floralwhite;
+    z-index: 9;
+    font-family: 'Pacifico', cursive;
+    
+    }
+.firstclass{
+    display: table-cell;
+    vertical-align: middle;
+    margin-top: 60px;
+    }
+#bio{
+    height: 500px;
+    
+    
+}
+.line{
+    height: 3px;
+    width: 500px;
+    background-color:darkgreen;
+    margin: 5px auto;
+}
+p{
+    max-width: 500px;
+    margin:25px auto;
+    color:azure;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+
+.links{
+    
+    padding:25px;
+    
+}
+#contacts iframe{
+    width: 100%;
+    
+}
+#contacts{
+    background-color: aqua;
+}
+.contact1 h3{
+    display: inline;
+}
